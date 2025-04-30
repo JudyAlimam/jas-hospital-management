@@ -44,4 +44,4 @@ g++ main.cpp -o hospital
 Effat University  
 Course: Data Structures and Algorithms  
 Instructor: Dr. Naila Marir  
-Submission Date: April 30, 2025
+Submission Date: April 30, 2025.
