@@ -1,4 +1,15 @@
-# JAS Hospital Management System
+# Hospital Management System
+
+A C++ Data Structures & Algorithms project implementing patient-record management, emergency triage, and treatment history using arrays, linked lists, queues, priority queues, and stacks.
+
+## My Contribution
+
+I contributed primarily to:
+- Linked list implementation
+- Queue / priority-queue functionality
+- Project portfolio/documentation
+
+This repository is a fork of the original team project and preserves the original authorship and contribution history.# JAS Hospital Management System
 
 This project simulates a hospital system that manages patient data and emergency treatment using C++.  
 It utilizes multiple data structures such as arrays, linked lists, stacks, queues, and **priority queues (bonus)**.
